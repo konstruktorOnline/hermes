@@ -8,7 +8,7 @@ import (
 	"gopkg.in/russross/blackfriday.v1"
 	"html/template"
 )
-
+//át van írva bro
 // Hermes is an instance of the hermes email generator
 type Hermes struct {
 	Theme         Theme
